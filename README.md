@@ -36,3 +36,5 @@ python manage.py aws_update_images
 
 docker stop panel ＃停止当前容器
 docker rm panel＃删除当前容器 
+
+chunk-168cccc1.96b4f2c7.js
